@@ -1,0 +1,56 @@
+{
+  "_from": "laravel-mix-jigsaw@^2.0.0",
+  "_id": "laravel-mix-jigsaw@2.0.0",
+  "_inBundle": false,
+  "_integrity": "sha512-F/ZH1dxQqlzErPAO5Uh9xZMgWpxgFBrE4l7hMHuzWfd2pFnWYJsUQgQaHV71X3eZjuMJLBMsRU9Zg82rpvT4Sg==",
+  "_location": "/laravel-mix-jigsaw",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "laravel-mix-jigsaw@^2.0.0",
+    "name": "laravel-mix-jigsaw",
+    "escapedName": "laravel-mix-jigsaw",
+    "rawSpec": "^2.0.0",
+    "saveSpec": null,
+    "fetchSpec": "^2.0.0"
+  },
+  "_requiredBy": [
+    "#DEV:/"
+  ],
+  "_resolved": "https://registry.npmjs.org/laravel-mix-jigsaw/-/laravel-mix-jigsaw-2.0.0.tgz",
+  "_shasum": "df6f4a7a2eac593d59723588c0b87a91cdf45c55",
+  "_spec": "laravel-mix-jigsaw@^2.0.0",
+  "_where": "/Users/zurik/Documents/Repos/jigsaw",
+  "author": {
+    "name": "Jacob Baker-Kretzmar",
+    "email": "jacob@tighten.co"
+  },
+  "bugs": {
+    "url": "https://github.com/tighten/laravel-mix-jigsaw/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "hasbin": "^1.2.3"
+  },
+  "deprecated": false,
+  "description": "Laravel Mix plugin for Jigsaw",
+  "homepage": "https://github.com/tighten/laravel-mix-jigsaw",
+  "keywords": [
+    "jigsaw",
+    "laravel",
+    "laravel-mix",
+    "laravel-mix-plugin"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "laravel-mix-jigsaw",
+  "peerDependencies": {
+    "laravel-mix": "^6.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tighten/laravel-mix-jigsaw.git"
+  },
+  "version": "2.0.0"
+}
